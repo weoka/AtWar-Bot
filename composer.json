@@ -1,0 +1,6 @@
+{
+    "name": "weoka/atwar-bot",
+    "require": {
+        "team-reflex/discord-php": "^5.1"
+    }
+}
